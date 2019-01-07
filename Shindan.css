@@ -1,0 +1,19 @@
+button {
+    margin: 0px 50px;
+    padding: 20px 40px;
+    background-color: aqua;
+    border-style: none;
+    font-family: 'MS Sans Serif';
+    font-size: large;
+    border-radius: 10px;
+ }
+ body {
+     background-color: lightgreen;
+ }
+ div {
+     text-align: center
+ }
+ h4 {
+     color: aqua;
+     text-decoration: none;
+ }
